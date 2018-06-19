@@ -2,7 +2,7 @@
 A node command line storefront with a MySQL backend
 
 ## Overview
-The app will take in orders from customers and deplete stock from the store's inventory.
+bamazonCustomer.js takes orders from customers and depletes stock from the store's inventory.
 
 ## Instructions
 ![bamazon](https://user-images.githubusercontent.com/37166192/41580309-58a2d01e-734f-11e8-88c1-0524e57ccae3.gif)
